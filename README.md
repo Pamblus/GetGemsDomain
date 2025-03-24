@@ -10,6 +10,8 @@ GetGems domain automatic miner
 ```bash
 pip install pytoniq pytoniq-core requests
 ```
+![ggmint](getgems_mint.jpg)
+![ggmint1](getgems_mint1.jpg)
 
 ## 🔑 Настройка
 
