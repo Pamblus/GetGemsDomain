@@ -4,11 +4,11 @@ GetGems domain automatic miner
 # 🚀 GetGems DNS Minter (GetGems API)
 
 Этот скрипт позволяет автоматически регистрировать GetGems domain DNS имена в сети TON через API GetGems.
-
+```
 ## 📦 Установка зависимостей
-
 ```bash
 pip install pytoniq pytoniq-core requests
+
 ```
 ![ggmint](getgems_mint.jpg)
 ![ggmint1](getgems_mint1.jpg)
