@@ -1,7 +1,7 @@
 # GetGemsDomain
 GetGems domain automatic miner
 ```Работа
-# 🚀 TON DNS Minter (GetGems API)
+# 🚀 GetGems DNS Minter (GetGems API)
 
 Этот скрипт позволяет автоматически регистрировать GetGems domain DNS имена в сети TON через API GetGems.
 
